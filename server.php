@@ -8,12 +8,12 @@ $hwidTypes = array("Syn-Fingerprint", "Exploit-Guid", "Proto-User-Identifier", "
 
 $database = array(
 	array(
-		"key" => "key_sentinel",
-		"hwid" => "",
+		"key" => "SPACExz",
+		"hwid" => "7f2341b6f4f189e04062a757cfae01ba85383f1bf4f1b7a2160fb37accc7fd8c44c32601fbdc6cb51c9ebe8c8b310adca091854537530352b050af5359df6bf1",
 	),
 	array(
 		"key" => "key_sirhurt",
-		"hwid" => "81ECAE2DD1AAADA537121E61D5C0280C"
+		"hwid" => ""
 	),
 	array(
 		"key" => "key_protosmasher",
